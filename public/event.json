@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Elegant Wedding",
+      "image": "https://i.ibb.co/Qmn0wV3/wedding.jpg",
+      "price": 5000,
+      "short_description": "A luxurious wedding experience with exquisite decor and catering. experience with exquisite decor and  catering.     with exquisite decor and catering.",
+      "description": "Experience the epitome of luxury with our elegant wedding package. From the moment you say 'I do,' to the last dance of the night, we ensure that your special day is nothing short of magical. Our team of expert wedding planners will work closely with you to create a personalized experience that reflects your unique love story. Imagine exchanging vows in a picturesque garden, surrounded by lush floral arrangements and soft candlelight. After the ceremony, guests will enjoy a gourmet dining experience, with a carefully curated menu that tantalizes the taste buds. As the night unfolds, our talented DJ will keep the dance floor alive, and you can capture every moment with our professional photographers. Let us make your wedding dreams come true with elegance, sophistication, and unforgettable moments."
+    },
+    {
+      "id": 2,
+      "name": "Birthday Parties",
+      "image": "https://i.ibb.co/T8YyBL5/birthday.jpg",
+      "price": 1000,
+      "short_description": "A fun-filled birthday celebration with entertainment for all ages.  birthday celebration with entertainment for all ages.  birthday celebration with entertainment .",
+      "large_description": "Throw a memorable birthday bash with our surprise party package. Entertainment for all ages, delicious treats, and a surprise element that will leave everyone in awe. Whether you're celebrating a milestone birthday or simply want to make someone's day extra special, our team is here to ensure it's an unforgettable event. Picture a venue filled with balloons, confetti, and the excitement of a surprise entrance. Our entertainers will keep guests of all ages engaged with games, magic shows, and live music. And of course, no birthday celebration is complete without a delicious cake and a menu of savory delights. As the evening progresses, watch as your loved one's face lights up with joy. With our surprise birthday bash package, you're not just throwing a party; you're creating cherished memories that will be talked about for years to come."
+    },
+    {
+      "id": 3,
+      "name": "Anniversary Gala",
+      "image": "https://i.ibb.co/XVhySZG/anniver.jpg",
+      "price": 3000,
+      "short_description": "Celebrate love and commitment with a memorable event. Celebrate love and commitment with a memorable event. Celebrate love and commitment",
+      "large_description": "Celebrate 25 years of love and commitment with our 25th-anniversary gala. An elegant affair filled with heartfelt moments, fine dining, and a touch of nostalgia. Two and a half decades of shared laughter, tears, and adventures deserve a celebration that reflects the depth of your love. Our team will transform a stunning venue into a romantic setting reminiscent of the day you said 'I do.' Imagine a candlelit dinner under a canopy of stars, where you can reminisce about your journey together. We'll create a heartfelt video montage to share your story with guests, and a live band will play your favorite songs. The evening will be a blend of nostalgia and optimism for the future. Our 25th-anniversary gala is more than just a party; it's a testament to enduring love and a promise of many more beautiful years ahead."
+    },
+    {
+      "id": 4,
+      "name": "Engagement ",
+      "image": "https://i.ibb.co/q5VPcDG/engagement.jpg",
+      "price": 800,
+      "short_description": "Toast to the newly engaged couple with an elegant engagement party. Toast to the newly engaged elegant engagement party. Toast to the newly engaged",
+      "large_description": "Raise a toast to the newly engaged couple with our engagement extravaganza. An evening of sophistication and celebration, marking the beginning of a beautiful journey together. Your engagement is a momentous occasion, and it deserves a grand celebration. Our engagement extravaganza package is designed to set the stage for your love story. Picture an elegant venue adorned with twinkling lights and romantic decor. As you announce your engagement, guests will be treated to a gourmet feast prepared by our top chefs. A live band will provide the soundtrack to your special evening, and our event planners will ensure every detail is perfect. This is not just a party; it's a declaration of love and the promise of a lifetime together. Let us make your engagement unforgettable and your journey to marriage off to a spectacular start."
+    },
+    {
+      "id": 5,
+      "name": "Retirement Retreat",
+      "image": "https://i.ibb.co/WVbs1qy/retairement.jpg",
+      "price": 1200,
+      "short_description": "Bid farewell to a  career with a relaxing retirement celebration. Bid dedicated career with a relaxing  celebration. Bid farewell celebration.",
+      "large_description": "Bid farewell to a dedicated career with our retirement retreat. A relaxing and well-deserved break, surrounded by friends and family, as you embark on a new chapter of life. After years of hard work and dedication, retirement is a time to relax, reflect, and rejoice in your achievements. Our retirement retreat package is designed to provide you with a well-deserved break in a serene and beautiful setting. Imagine a tranquil lakeside resort where you can unwind, surrounded by loved ones. We'll organize activities like yoga sessions, nature walks, and even a special tribute to your career accomplishments. You'll enjoy delicious meals prepared by our talented chefs and have the opportunity to share stories and laughter with family and friends. This retreat is not just a goodbye to your career; it's a warm welcome to the exciting journey ahead. Let us create a retirement retreat that honors your dedication and celebrates the possibilities of the future."
+    },
+    {
+      "id": 6,
+      "name": "Baby Bliss Shower",
+      "image": "https://i.ibb.co/LStFYzS/baby-shower.jpg",
+      "price": 600,
+      "short_description": "Welcome the upcoming bundle of joy with a joyful baby shower. Welcome the upcoming bundle of joy with a joyful baby shower.",
+      "large_description": "Welcome the upcoming bundle of joy with our baby bliss bash. A joyful celebration filled with games, gifts, and heartfelt moments as we await the arrival of your little one. Anticipating the arrival of a new member of the family is a special time filled with joy and excitement. Our baby bliss bash package is designed to celebrate this precious moment with friends and family. Picture a charming venue decorated with adorable baby-themed decor. Guests will enjoy games, activities, and delicious treats as they shower you with love and gifts for the baby. We'll help you create lasting memories with a photo booth, where guests can capture their wishes for the baby. It's a celebration of new beginnings, laughter, and the love that surrounds your growing family. Let us make your baby shower a joyful and memorable event that you'll cherish forever."
+    }
+  ]
+  
