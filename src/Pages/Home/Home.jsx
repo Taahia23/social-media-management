@@ -19,14 +19,15 @@ const Home = () => {
                 }
             </div>
 
-            <div className="grid grid-cols-3 w-[1250px] h-[150px] bg-pink-100 mb-40 relative mt-20">
-                <div className="col-span-1 -mt-8 ml-7">
-                    <img className="w-[270px] absolute " src="https://i.ibb.co/khm00Dp/img5-removebg-preview.png" alt="" />
-                </div>
-                <div className="col-span-2 mx-auto flex flex-row justify-center items-center">
-                    <div className="join">
-                        <input className="input input-bordered join-item" placeholder="Email" />
-                        <button className="btn join-item rounded-r-full bg-pink-600 text-white">Get in touch</button>
+
+            <div className="hero min-h-min bg-pink-50 mb-40 relative">
+                <div className="hero-content justify-between flex-col lg:flex-row">
+                    <img src="https://i.ibb.co/khm00Dp/img5-removebg-preview.png" className="max-w-sm rounded-lg shadow-2xl" />
+                    <div>
+                        <div className="join">
+                            <input className="input input-bordered join-item" placeholder="Email" />
+                            <button className="btn join-item rounded-r-full bg-pink-600 text-white">Get in touch</button>
+                        </div>
                     </div>
                 </div>
             </div>

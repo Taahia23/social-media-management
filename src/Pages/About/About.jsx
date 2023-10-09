@@ -2,9 +2,9 @@
 const About = () => {
     return (
         <div>
-            <div className="flex mt-20">
+            <div className="flex flex-col lg:flex-row mt-20">
                 <div className="flex flex-col justify-center items-left space-y-4">
-                    <h1 className="text-5xl font-bold mb-3">Vivienne Eastwood</h1>
+                    <h1 className="text-5xl font-bold mb-3 text-center lg:text-left">Vivienne Eastwood</h1>
                     <h2 className="text-2xl">WHAT WE DO</h2>
                     <p className="font-light">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy.</p>
                     <h2 className="text-2xl">WHAT WE DO</h2>
@@ -19,7 +19,7 @@ const About = () => {
                 <h1 className="text-5xl text-center font-semibold">Guest Safety Is Our Priority</h1>
                 <p className="font-light text-center">Dear friends and family, due to pandemic, only immediate family can participate directly at the wedding. <br /> We will make sure that all safety measures against COVID-19 are respected.</p>
                 <div>
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mt-20">
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mt-20 mx-auto">
                         <div className="card w-96 bg-pink-50 shadow-xl">
                             <div className="card-body">
                                 <h2 className="text-center font-semibold text-xl text-pink-700 mb-5">Keep a Safe Distance</h2>
